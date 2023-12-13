@@ -1,0 +1,3 @@
+[submodule "FranneckCppEng"]
+	path = FranneckCppEng
+	url = git@github.com:jalexspringer/FranneckCppEng.git
